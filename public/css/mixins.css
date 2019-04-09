@@ -1,0 +1,6 @@
+.btn:visited, .btn:focus {
+  outline: none !important;
+  box-shadow: none !important;
+  transition: box-shadow 0.5s; }
+
+/*# sourceMappingURL=mixins.css.map */

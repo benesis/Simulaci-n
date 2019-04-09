@@ -1,0 +1,28 @@
+[2019-04-09 06:03:20] local.ERROR: Class 'App\Http\Controllers\AppBaseController' not found {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Class 'App\\Http\\Controllers\\AppBaseController' not found at C:\\laragon\\www\\transport\\app\\Http\\Controllers\ateController.php:13)
+[stacktrace]
+#0 {main}
+"} 
+[2019-04-09 06:03:33] local.ERROR: Class 'App\Http\Controllers\AppBaseController' not found {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Class 'App\\Http\\Controllers\\AppBaseController' not found at C:\\laragon\\www\\transport\\app\\Http\\Controllers\ateController.php:13)
+[stacktrace]
+#0 {main}
+"} 
+[2019-04-09 06:04:11] local.ERROR: Class 'App\Http\Controllers\AppBaseController' not found {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Class 'App\\Http\\Controllers\\AppBaseController' not found at C:\\laragon\\www\\transport\\app\\Http\\Controllers\ateController.php:13)
+[stacktrace]
+#0 {main}
+"} 
+[2019-04-09 06:05:30] local.ERROR: Class 'App\Http\Controllers\AppBaseController' not found {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Class 'App\\Http\\Controllers\\AppBaseController' not found at C:\\laragon\\www\\transport\\app\\Http\\Controllers\ateController.php:13)
+[stacktrace]
+#0 {main}
+"} 
+[2019-04-09 06:06:29] local.ERROR: Class 'App\Http\Controllers\AppBaseController' not found {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Class 'App\\Http\\Controllers\\AppBaseController' not found at C:\\laragon\\www\\transport\\app\\Http\\Controllers\ateController.php:13)
+[stacktrace]
+#0 {main}
+"} 
+[2019-04-09 06:07:31] local.ERROR: Class 'App\Http\Controllers\AppBaseController' not found {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Class 'App\\Http\\Controllers\\AppBaseController' not found at C:\\laragon\\www\\transport\\app\\Http\\Controllers\ateController.php:13)
+[stacktrace]
+#0 {main}
+"} 
+[2019-04-09 06:14:46] local.ERROR: Class 'App\Http\Controllers\AppBaseController' not found {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Class 'App\\Http\\Controllers\\AppBaseController' not found at C:\\laragon\\www\\transport\\app\\Http\\Controllers\\passengerController.php:13)
+[stacktrace]
+#0 {main}
+"} 
